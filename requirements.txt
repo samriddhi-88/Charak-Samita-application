@@ -1,0 +1,9 @@
+pip install pandas
+pip install tk
+pip install scikit-learn
+pip install folium
+pip install fuzzywuzzy
+pip install os-sys
+pip install reportlab
+pip install python-csv
+pip install pillow
